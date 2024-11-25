@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+git add requirements.txt
+git commit -m "Add requirements file"
+git push
